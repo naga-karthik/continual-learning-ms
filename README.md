@@ -1,6 +1,6 @@
 ## Segmentation of Multiple Sclerosis Lesions across Hospitals: Learn Continually or Train from Scratch?
 
-This is the official PyTorch-based repository containing the code and instructions for reproducing the results of the above-mentioned paper. 
+This is the official PyTorch-based repository containing the code and instructions for reproducing the results of the above-mentioned paper (under review, submitted to the MedNeurIPS 2022 workshop). 
 
 ### Introduction
 
