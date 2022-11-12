@@ -1,6 +1,8 @@
 ## Segmentation of Multiple Sclerosis Lesions across Hospitals: Learn Continually or Train from Scratch?
 
-This is the official PyTorch-based repository containing the code and instructions for reproducing the results of the above-mentioned paper (under review, submitted to the MedNeurIPS 2022 workshop). 
+This is the official PyTorch-based repository containing the code and instructions for reproducing the results of the above-mentioned paper, accepted at Medical Imaging Meets NeurIPS (MedNeurIPS) 2022 Workshop, New Orleans, LA, USA. 
+
+The paper can be found [here](https://arxiv.org/pdf/2210.15091.pdf).
 
 ### Introduction
 
@@ -41,4 +43,17 @@ cd continual-learning-ms/
 conda create -n venv_cl_ms python=3.8
 conda activate venv_cl_ms
 pip install -r requirements.txt
+```
+
+### Citation
+If you find this work or code useful in your research, please consider citing:
+
+```
+@article{nagakarthik2022Segmentation,
+    title={Segmentation of Multiple Sclerosis Lesion across Hospitals: Learn Continually or Train from Scratch?},
+    author={Naga Karthik, Enamudram and Kerbrat, Anne and Labauge, Pierre and Granberg, Tobias and Talbott, Jason and Reich, Daniel S and Filippi, Massimo and Bakshi, Rohit and Callot, Virginie and Chandar, Sarath and Cohen-Adad, Julien},
+    journal={MedNeurIPS: Medical Imaging Meets NeurIPS Workshop},
+    year={2022},
+    url="https://arxiv.org/pdf/2210.15091.pdf"
+}
 ```
